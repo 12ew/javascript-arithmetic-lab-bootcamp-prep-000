@@ -26,21 +26,14 @@ function dec(n){
   return n;
 }
 
-function makeInt(n){
- if (parseInt('n') = 'n'){
+function makeInt(n) {
+ if ((parseInt('n')) = 'n') {
   return n;
-} else if  { (parseInt('n', 10) = 0);
+} else if (parseInt('n', 10) = 0) {
   return n;
-} else { (parseInt('n') = true);
+} else if { (parseInt('n') = true) {
   return n;
-  
-  
-  function testNum(a) {
-  if (a > 0) {
-    return "positive";
-  } else {
-    return "NOT positive";
-  }
+}
 }
 
 
