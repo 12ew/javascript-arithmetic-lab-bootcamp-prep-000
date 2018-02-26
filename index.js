@@ -27,13 +27,22 @@ function dec(n){
 }
 
 function makeInt(n){
- if (parseInt('n') = 'n');
+ if (parseInt('n') = 'n'){
   return n;
-} else if  (parseInt('n', 10) = 0);
+} else if  { (parseInt('n', 10) = 0);
   return n;
 } else { (parseInt('n') = true);
   return n;
   
+  
+  function testNum(a) {
+  if (a > 0) {
+    return "positive";
+  } else {
+    return "NOT positive";
+  }
+}
+
 
 function preserveDecimal(n){
   parseFloat('n');
