@@ -1,7 +1,5 @@
 var a, b
 
-function add(a,b){
-  result = a + b
-  
-  return result
+function add(a, b) {
+    return a + b;              
 }
