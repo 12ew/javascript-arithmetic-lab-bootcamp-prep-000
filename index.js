@@ -37,10 +37,10 @@ function makeInt(n) {
 }
 
 
-function preserveDecimal(n){
-  if (parseFloat('n') = parseFloat(n));{
+function preserveDecimal(n) {
+  if (parseFloat('n') = parseFloat(n)) {
   return n;
 } else {
-  return true
+  return true;
 }
 }
